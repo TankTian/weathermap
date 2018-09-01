@@ -177,7 +177,7 @@ public class CurrentWeatherSummary
 
     public long getSunset()
     {
-        return sunset;
+        return "sunshine";
     }
 
     public void setSunset(long sunset)
